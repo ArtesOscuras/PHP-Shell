@@ -1,0 +1,1 @@
+This is a PHP Shell designed with ChatGPT an afternoon when I was bored. It is fully functional and allows you to see stderr. It was designed to be used during CTF machines. If you like my job subscribe to my youtube chanel https://www.youtube.com/@artes_oscuras
