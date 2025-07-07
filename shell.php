@@ -260,7 +260,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     </div>
 
     <div class="output-container" id="output-container">
-        <h1>Artes OScuras</h1>
+        <h1>Artes Oscuras</h1>
         <div class="history" id="history">
             <?php
             // Muestra el historial completo de comandos y salidas
